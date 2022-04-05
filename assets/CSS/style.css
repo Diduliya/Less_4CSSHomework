@@ -1,5 +1,6 @@
-/* body{
+body{
   font-family: 'Montserrat', sans-serif;
+  text-indent: 25px;
 }
 
 .main-heading{
@@ -13,5 +14,10 @@
   font-size: 14px;
 }
 .heading-art{
-
-} */
+text-align: center;
+color: rgb(23, 10, 115);
+}
+.paragraf{
+  text-align: left;
+  font-size: 16px;
+}
